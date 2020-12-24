@@ -14,24 +14,32 @@
 
 **Some Screnshots and GIFs:**
 ![Desktop Landing Page](https://raw.githack.com/nishd8/Github-User-Search/main/screenshots/Landing-desktop.png)
+
 Desktop Landing Page
 
 ![Phone Landing Page](https://raw.githack.com/nishd8/Github-User-Search/main/screenshots/landing-phone.png)
- Phone Landing Page
+
+Phone Landing Page
  
 ![Desktop Search Page](https://raw.githack.com/nishd8/Github-User-Search/main/screenshots/search.png)
+
 Desktop Search Page
 
 ![Phone Search Page](https://raw.githack.com/nishd8/Github-User-Search/main/screenshots/search-phone.png)
+
 Phone Search Page
 
 ![Search Demo ](https://raw.githack.com/nishd8/Github-User-Search/main/screenshots/search.gif)
+
 Search Demo
 
 ![Save Demo](https://raw.githack.com/nishd8/Github-User-Search/main/screenshots/save.gif)
+
 Save Demo
 
 ![Delete And View Profile Demo](https://raw.githack.com/nishd8/Github-User-Search/main/screenshots/delete.gif)
+
 Delete And View Profile Demo
+
 
 **Made By Nishad Raisinghani**
