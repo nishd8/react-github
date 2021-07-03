@@ -1,4 +1,4 @@
-# Github-User-Search
+# react-github
 **Description:**
 
  - This is a reactJS based project, it utilizes github's api to search and get user data and store it in browser's local storage.
